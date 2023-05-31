@@ -1,7 +1,3 @@
-#pip install pywhatkit
-#pip install wikipedia
-#pip install pyttsx3
-#pip install pyjokes
 
 import speech_recognition as sr
 import pyttsx3
